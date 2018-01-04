@@ -1,0 +1,24 @@
+{
+  "Enum1" : [
+    {
+      "v" : "value1",
+      "n" : "Name 1"
+    },
+    {
+      "v" : "value2",
+      "n" : "Name 2"
+    },
+    {
+      "n" : "Name3",
+      "v" : "value3"
+    },
+    {
+      "n" : "Name4",
+      "v" : "value4"
+    },
+    {
+      "n" : "Name5",
+      "v" : "value5"
+    }
+  ]
+}
